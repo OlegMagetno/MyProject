@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New';
+}
+#announcement {border-bottom: #718096 2px inset; padding-bottom: 5px; margin-bottom: 20px;}
+#imageBlock {float: left;}
+#imageBlock img {
+    height: 250px;
+}
+#information {float: left;}
+#smallImg {clear:left}
+#smallImg img {
+    height: 50px;
+}
+#title {background-color: #a0aec0;}
+.position-fixed div {margin: 5px; float: left;}
+.position-fixed div button {width: 230px;}
